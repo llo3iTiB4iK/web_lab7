@@ -1,0 +1,23 @@
+ul.gallery {
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+form.feedback-form * {
+    display: block;
+    margin: 10px 0;
+}
+form.feedback-form button {
+    background: #4E75FF;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+}
+form.feedback-form button:hover {
+    background: #6C8CFF;
+}
