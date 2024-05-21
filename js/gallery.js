@@ -1,42 +1,42 @@
 const images = [
     {
-        preview: '../img/1s.jpg',
-        original: '../img/1m.jpg',
+        preview: 'img/1s.jpg',
+        original: 'img/1m.jpg',
         description: 'foggy forest',
     },
     {
-        preview: '../img/2s.jpg',
-        original: '../img/2m.jpg',
+        preview: 'img/2s.jpg',
+        original: 'img/2m.jpg',
         description: 'black horse running',
     },
     {
-        preview: '../img/3s.jpg',
-        original: '../img/3m.jpg',
+        preview: 'img/3s.jpg',
+        original: 'img/3m.jpg',
         description: 'beautiful moon',
     },
     {
-        preview: '../img/4s.jpg',
-        original: '../img/4m.jpg',
+        preview: 'img/4s.jpg',
+        original: 'img/4m.jpg',
         description: 'autumn roadway',
     },
     {
-        preview: '../img/5s.jpg',
-        original: '../img/5m.jpg',
+        preview: 'img/5s.jpg',
+        original: 'img/5m.jpg',
         description: 'man with mountains on background',
     },
     {
-        preview: '../img/6s.jpg',
-        original: '../img/6m.jpg',
+        preview: 'img/6s.jpg',
+        original: 'img/6m.jpg',
         description: 'sea on hand',
     },
     {
-        preview: '../img/7s.jpg',
-        original: '../img/7m.jpg',
+        preview: 'img/7s.jpg',
+        original: 'img/7m.jpg',
         description: 'woman jumping',
     },
     {
-        preview: '../img/8s.jpg',
-        original: '../img/8m.jpg',
+        preview: 'img/8s.jpg',
+        original: 'img/8m.jpg',
         description: 'beautiful mountains view',
     }
 ];
